@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @ottosinna
-- 👀 I’m interested in Gym, Games, Sports & Going out
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me: DM
+Computer Engineering @ CSUN
+Software Engineering | Systems Programming | Computer Architecture
 
-<!---
-ottosinna/ottosinna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technologies
+______________________________
+Languages:
+C++
+C
+Java
+Python
+JavaScript
+SQL
+Assembly
+
+Developer Tools:
+Linux
+Bash
+Git
+Docker
+GitHub Actions
+CMake
+Google Test
+Current Projects
+Flight Route Optimizer
+5-Stage Pipeline Simulator
+Hardware Performance Analyzer
+
+Interests:
+Systems Programming
+Operating Systems
+Distributed Systems
+Embedded Software
+High Performance Computing
